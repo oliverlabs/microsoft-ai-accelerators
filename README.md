@@ -6,12 +6,6 @@ This repository contains a curated list 📃 of AI solution accelerators by Micr
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Markdown Link Checker](https://github.com/oliverlabs/azure-networking/actions/workflows/markdown-link-checker.yml/badge.svg)](https://github.com/oliverlabs/azure-networking/actions/workflows/markdown-link-checker.yml)
 
-- [Chat with Your Data](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) - A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices.
-- [Build Your Own Copilot](https://github.com/microsoft/Build-your-own-copilot-Solution-Accelerator)
-- [Conversational Knowledge Mining](https://github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure-OpenAI-Services)
-- [Task Management](https://github.com/microsoft/Task-Management-in-Microsoft-Sustainability-Manager-Solution-Accelerator)
-- [Comparative Analysis in Sustainability](https://github.com/microsoft/Comparative-Analysis-for-Sustainability-Solution-Accelerator)
-
 🎁 Project | 📚 Description | ⭐ Stars | 
 ----------- | --------- | --------- 
 [Chat with Your Data](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) | A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices. | ![](https://img.shields.io/github/stars/Azure-Samples/chat-with-your-data-solution-accelerator?style=flat-square&labelColor=343b41)
