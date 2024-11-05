@@ -14,5 +14,16 @@ This repository contains a curated list 📃 of AI solution accelerators by Micr
 [Task Management](https://github.com/microsoft/Task-Management-in-Microsoft-Sustainability-Manager-Solution-Accelerator) | This solution accelerator uses purpose-built task management within the Microsoft Sustainability Manager (MSM) to meet task creation, tracking and resolution demands. | ![GitHub stars](https://img.shields.io/github/stars/microsoft/Task-Management-in-Microsoft-Sustainability-Manager-Solution-Accelerator?style=flat&labelColor=343b41)
 [Comparative Analysis in Sustainability](https://github.com/microsoft/Comparative-Analysis-for-Sustainability-Solution-Accelerator) | This solution accelerator enables companies to detect compliance gaps, benchmark against their peers, and generate action plans to ensure they’re on track to meet their sustainability goals | ![GitHub stars](https://img.shields.io/github/stars/microsoft/Comparative-Analysis-for-Sustainability-Solution-Accelerator?style=flat&labelColor=343b41)
 
+## Supporting Resources
+
+### GenAI Gateway
+
+🎁 Resource | 📚 Description |
+----------- | --------- |
+[GenAI Gateway Guide Documentation​](https://aka.ms/genai-gateway) ​ | Designing and implementing a gateway solution with Azure OpenAI resources.
+[GenAI Gateway Labs](https://aka.ms/apim/genai/labs) | This repo contains a set of experiments and labs on using GenAI capabilities of Azure API Management with Azure OpenAI and other services.
+[GenAI Gateway Accelerator](https://aka.ms/apim-genai-lza) | This repo contains the Azure API Management landing zone accelerator that provides an architectural approach and reference implementation to prepare landing zone subscriptions for a secure API Management infrastructure.
+
+
 
 
